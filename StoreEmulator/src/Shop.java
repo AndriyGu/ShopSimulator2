@@ -35,7 +35,8 @@ public class Shop {
 
 
         for(int day = 1; day<30; day++){
-            dayCH=dayCH.plusDays(day-1);
+
+
             String dayOfWeek = (dayCH.getDayOfWeek()).toString();
             System.out.println(ANSI_GREEN+"                                                                                           Текущая дата : " + dayCH+ " "+ dayOfWeek+ANSI_RESET);
             System.out.println();
@@ -68,6 +69,7 @@ public class Shop {
                 }
             }
             supplyMetod(productListWerehouse);
+            dayCH=dayCH.plusDays(1);
         }
 
 
