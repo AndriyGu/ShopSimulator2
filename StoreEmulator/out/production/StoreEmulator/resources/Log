@@ -1,0 +1,32 @@
+      Покупатель № 2
+thirst=7
+art=7  quant=6
+art=1  quant=1
+List size 2
+1)  = 7 2) = 1  3) = 1
+"Мартини Биссе -- закончился
+продано 1шт; "Вода минеральная Хорошона сумму 10.7891999821364879934; по цене 10.7891999821364879934(наценка 8.0%)
+чек на сумму 10.7891999821364879934
+3 было,-4 докуплено 150 теперь в наличии 146потрачено1987.50
+7 было,0 докуплено 150 теперь в наличии 150потрачено30750.00
+8 было,0 докуплено 150 теперь в наличии 150потрачено29250.00
+
+ cash = cashRegister(hour,productListPurshes,productListWerehouse,dayCH,cash); если переделать его под void
+ я не могу менять cash в классе. почему???????????????????????
+
+
+
+ Cash 95942.65182292066510540220
+ ID 1; curent 373; buy 0; sold 197 supplyCost 0
+ ID 2; curent 236; buy 0; sold 176 supplyCost 0
+ ID 3; curent 92; buy 150; sold 178 supplyCost 1987.50
+ ID 4; curent 111; buy 150; sold 131 supplyCost 12000.00
+ ID 5; curent 150; buy 150; sold 156 supplyCost 3300.00
+ ID 6; curent 66; buy 150; sold 162 supplyCost 3622.50
+ ID 7; curent 150; buy 300; sold 162 supplyCost 61500.00
+ ID 8; curent 150; buy 300; sold 150 supplyCost 58500.00
+
+ all supplay cost 140910.00
+ profit -44967.34817707933489459780
+
+ Process finished with exit code 0

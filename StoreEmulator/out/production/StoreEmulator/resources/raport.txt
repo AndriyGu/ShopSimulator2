@@ -1,0 +1,1037 @@
+
+
+
+    2017-09-25T02:10:43.582
+
+ID 1; current 389; buy 0; sold 181
+ID 2; current 250; buy 0; sold 162
+ID 3; current 150; buy 150; sold 120
+ID 4; current 64; buy 150; sold 178
+ID 5; current 150; buy 150; sold 156
+ID 6; current 93; buy 150; sold 135
+ID 7; current 46; buy 150; sold 116
+ID 8; current 156; buy 300; sold 144
+
+
+Прибыль магазина от продаж 8022.04
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T02:21:07.455
+
+ID 1; current 364; buy 0; sold 206
+ID 2; current 205; buy 0; sold 207
+ID 3; current 91; buy 150; sold 179
+ID 4; current 99; buy 150; sold 143
+ID 5; current 150; buy 150; sold 156
+ID 6; current 87; buy 150; sold 141
+ID 7; current 158; buy 300; sold 154
+ID 8; current 15; buy 150; sold 135
+
+
+Прибыль магазина от продаж 8146.76
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T02:25:28.464
+
+ID 1; current 371; buy 0; sold 199
+ID 2; current 251; buy 0; sold 161
+ID 3; current 74; buy 150; sold 196
+ID 4; current 122; buy 150; sold 120
+ID 5; current 150; buy 150; sold 156
+ID 6; current 55; buy 150; sold 173
+ID 7; current 11; buy 150; sold 151
+ID 8; current 51; buy 150; sold 99
+
+
+Прибыль магазина от продаж 7204.45
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:27:45.072
+
+ID 1; current 372; buy 0; sold 198
+ID 2; current 212; buy 0; sold 200
+ID 3; current 95; buy 150; sold 175
+ID 4; current 53; buy 150; sold 189
+ID 5; current 150; buy 150; sold 156
+ID 6; current 62; buy 150; sold 166
+ID 7; current 150; buy 300; sold 162
+ID 8; current 19; buy 150; sold 131
+
+
+Прибыль магазина от продаж 8529.00
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T02:37:19.783
+
+ID 1; current 384; buy 0; sold 186
+ID 2; current 241; buy 0; sold 171
+ID 3; current 79; buy 150; sold 191
+ID 4; current 42; buy 150; sold 200
+ID 5; current 154; buy 150; sold 152
+ID 6; current 58; buy 150; sold 170
+ID 7; current 23; buy 150; sold 139
+ID 8; current 13; buy 150; sold 137
+
+
+Прибыль магазина от продаж 7994.01
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:37:42.723
+
+ID 1; current 372; buy 0; sold 198
+ID 2; current 303; buy 0; sold 109
+ID 3; current 154; buy 150; sold 116
+ID 4; current 129; buy 150; sold 113
+ID 5; current 150; buy 150; sold 156
+ID 6; current 77; buy 150; sold 151
+ID 7; current 42; buy 150; sold 120
+ID 8; current 43; buy 150; sold 107
+
+
+Прибыль магазина от продаж 6174.95
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:38:19.049
+
+ID 1; current 370; buy 0; sold 200
+ID 2; current 236; buy 0; sold 176
+ID 3; current 150; buy 150; sold 120
+ID 4; current 116; buy 150; sold 126
+ID 5; current 115; buy 150; sold 191
+ID 6; current 72; buy 150; sold 156
+ID 7; current 17; buy 150; sold 145
+ID 8; current 158; buy 300; sold 142
+
+
+Прибыль магазина от продаж 7675.43
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T02:41:46.827
+
+ID 1; current 449; buy 0; sold 121
+ID 2; current 252; buy 0; sold 160
+ID 3; current 121; buy 150; sold 149
+ID 4; current 61; buy 150; sold 181
+ID 5; current 150; buy 150; sold 156
+ID 6; current 96; buy 150; sold 132
+ID 7; current 25; buy 150; sold 137
+ID 8; current 34; buy 150; sold 116
+
+
+Прибыль магазина от продаж 7344.40
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:42:16.845
+
+ID 1; current 387; buy 0; sold 183
+ID 2; current 217; buy 0; sold 195
+ID 3; current 92; buy 150; sold 178
+ID 4; current 101; buy 150; sold 141
+ID 5; current 21; buy 0; sold 135
+ID 6; current 58; buy 150; sold 170
+ID 7; current 51; buy 150; sold 111
+ID 8; current 59; buy 150; sold 91
+
+
+Прибыль магазина от продаж 6238.81
+Затраченные средства на дозакупку товара 77610.00
+
+
+
+    2017-09-25T02:44:28.121
+
+ID 1; current 335; buy 0; sold 235
+ID 2; current 191; buy 0; sold 221
+ID 3; current 44; buy 150; sold 226
+ID 4; current 103; buy 150; sold 139
+ID 5; current 150; buy 150; sold 156
+ID 6; current 46; buy 150; sold 182
+ID 7; current 23; buy 150; sold 139
+ID 8; current 27; buy 150; sold 123
+
+
+Прибыль магазина от продаж 8093.03
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:46:16.380
+
+ID 1; current 403; buy 0; sold 167
+ID 2; current 242; buy 0; sold 170
+ID 3; current 150; buy 150; sold 120
+ID 4; current 93; buy 150; sold 149
+ID 5; current 156; buy 150; sold 150
+ID 6; current 76; buy 150; sold 152
+ID 7; current 51; buy 150; sold 111
+ID 8; current 50; buy 150; sold 100
+
+
+Прибыль магазина от продаж 6140.41
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T02:50:58.551
+
+ID 1; current 424; buy 0; sold 146
+ID 2; current 228; buy 0; sold 184
+ID 3; current 107; buy 150; sold 163
+ID 4; current 77; buy 150; sold 165
+ID 5; current 150; buy 150; sold 156
+ID 6; current 31; buy 150; sold 197
+ID 7; current 152; buy 300; sold 160
+ID 8; current 15; buy 150; sold 135
+
+
+Прибыль магазина от продаж 7933.16
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T02:51:51.134
+
+ID 1; current 399; buy 0; sold 171
+ID 2; current 201; buy 0; sold 211
+ID 3; current 87; buy 150; sold 183
+ID 4; current 75; buy 150; sold 167
+ID 5; current 150; buy 150; sold 156
+ID 6; current 36; buy 150; sold 192
+ID 7; current 14; buy 150; sold 148
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 8586.32
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T02:56:11.296
+
+ID 1; current 373; buy 0; sold 197
+ID 2; current 231; buy 0; sold 181
+ID 3; current 106; buy 150; sold 164
+ID 4; current 96; buy 150; sold 146
+ID 5; current 150; buy 150; sold 156
+ID 6; current 113; buy 150; sold 115
+ID 7; current 28; buy 150; sold 134
+ID 8; current 159; buy 300; sold 141
+
+
+Прибыль магазина от продаж 7720.18
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T02:57:00.240
+
+ID 1; current 388; buy 0; sold 182
+ID 2; current 213; buy 0; sold 199
+ID 3; current 92; buy 150; sold 178
+ID 4; current 128; buy 150; sold 114
+ID 5; current 150; buy 150; sold 156
+ID 6; current 67; buy 150; sold 161
+ID 7; current 150; buy 300; sold 162
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 8341.95
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-25T02:57:57.958
+
+ID 1; current 389; buy 0; sold 181
+ID 2; current 273; buy 0; sold 139
+ID 3; current 78; buy 150; sold 192
+ID 4; current 93; buy 150; sold 149
+ID 5; current 19; buy 0; sold 137
+ID 6; current 92; buy 150; sold 136
+ID 7; current 33; buy 150; sold 129
+ID 8; current 49; buy 150; sold 101
+
+
+Прибыль магазина от продаж 6984.44
+Затраченные средства на дозакупку товара 77610.00
+
+
+
+    2017-09-25T03:00:04.071
+
+ID 1; current 393; buy 0; sold 177
+ID 2; current 239; buy 0; sold 173
+ID 3; current 88; buy 150; sold 182
+ID 4; current 118; buy 150; sold 124
+ID 5; current 14; buy 0; sold 142
+ID 6; current 70; buy 150; sold 158
+ID 7; current 25; buy 150; sold 137
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 7533.09
+Затраченные средства на дозакупку товара 106860.00
+
+
+
+    2017-09-25T03:01:06.485
+
+ID 1; current 395; buy 0; sold 175
+ID 2; current 208; buy 0; sold 204
+ID 3; current 99; buy 150; sold 171
+ID 4; current 110; buy 150; sold 132
+ID 5; current 95; buy 150; sold 211
+ID 6; current 102; buy 150; sold 126
+ID 7; current 16; buy 150; sold 146
+ID 8; current 35; buy 150; sold 115
+
+
+Прибыль магазина от продаж 7122.47
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T03:01:48.180
+
+ID 1; current 398; buy 0; sold 172
+ID 2; current 219; buy 0; sold 193
+ID 3; current 123; buy 150; sold 147
+ID 4; current 46; buy 150; sold 196
+ID 5; current 150; buy 150; sold 156
+ID 6; current 45; buy 150; sold 183
+ID 7; current 156; buy 300; sold 156
+ID 8; current 45; buy 150; sold 105
+
+
+Прибыль магазина от продаж 7762.50
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T03:02:04.747
+
+ID 1; current 373; buy 0; sold 197
+ID 2; current 200; buy 0; sold 212
+ID 3; current 150; buy 150; sold 120
+ID 4; current 112; buy 150; sold 130
+ID 5; current 125; buy 150; sold 181
+ID 6; current 82; buy 150; sold 146
+ID 7; current 150; buy 300; sold 162
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 9229.82
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-25T03:11:03.195
+
+ID 1; current 433; buy 0; sold 137
+ID 2; current 214; buy 0; sold 198
+ID 3; current 107; buy 150; sold 163
+ID 4; current 84; buy 150; sold 158
+ID 5; current 150; buy 150; sold 156
+ID 6; current 113; buy 150; sold 115
+ID 7; current 42; buy 150; sold 120
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 7587.24
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T03:11:20.282
+
+ID 1; current 426; buy 0; sold 144
+ID 2; current 265; buy 0; sold 147
+ID 3; current 106; buy 150; sold 164
+ID 4; current 64; buy 150; sold 178
+ID 5; current 108; buy 150; sold 198
+ID 6; current 82; buy 150; sold 146
+ID 7; current 64; buy 150; sold 98
+ID 8; current 31; buy 150; sold 119
+
+
+Прибыль магазина от продаж 6711.24
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T03:11:26.817
+
+ID 1; current 418; buy 0; sold 152
+ID 2; current 195; buy 0; sold 217
+ID 3; current 87; buy 150; sold 183
+ID 4; current 103; buy 150; sold 139
+ID 5; current 17; buy 0; sold 139
+ID 6; current 72; buy 150; sold 156
+ID 7; current 153; buy 300; sold 159
+ID 8; current 20; buy 150; sold 130
+
+
+Прибыль магазина от продаж 7717.79
+Затраченные средства на дозакупку товара 108360.00
+
+
+
+    2017-09-25T03:13:14.799
+
+ID 1; current 366; buy 0; sold 204
+ID 2; current 249; buy 0; sold 163
+ID 3; current 71; buy 150; sold 199
+ID 4; current 94; buy 150; sold 148
+ID 5; current 150; buy 150; sold 156
+ID 6; current 78; buy 150; sold 150
+ID 7; current 30; buy 150; sold 132
+ID 8; current 155; buy 300; sold 145
+
+
+Прибыль магазина от продаж 8069.91
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T03:14:59.902
+
+ID 1; current 423; buy 0; sold 147
+ID 2; current 248; buy 0; sold 164
+ID 3; current 150; buy 150; sold 120
+ID 4; current 126; buy 150; sold 116
+ID 5; current 150; buy 150; sold 156
+ID 6; current 90; buy 150; sold 138
+ID 7; current 81; buy 150; sold 81
+ID 8; current 38; buy 150; sold 112
+
+
+Прибыль магазина от продаж 5578.84
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T03:17:03.351
+
+ID 1; current 414; buy 0; sold 156
+ID 2; current 233; buy 0; sold 179
+ID 3; current 102; buy 150; sold 168
+ID 4; current 95; buy 150; sold 147
+ID 5; current 150; buy 150; sold 156
+ID 6; current 33; buy 150; sold 195
+ID 7; current 27; buy 150; sold 135
+ID 8; current 21; buy 150; sold 129
+
+
+Прибыль магазина от продаж 7440.65
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T08:34:40.788
+
+ID 1; current 418; buy 0; sold 152
+ID 2; current 255; buy 0; sold 157
+ID 3; current 75; buy 150; sold 195
+ID 4; current 86; buy 150; sold 156
+ID 5; current 32; buy 0; sold 124
+ID 6; current 86; buy 150; sold 142
+ID 7; current 150; buy 300; sold 162
+ID 8; current 52; buy 150; sold 98
+
+
+Прибыль магазина от продаж 7163.22
+Затраченные средства на дозакупку товара 108360.00
+
+
+
+    2017-09-25T08:36:13.643
+
+ID 1; current 353; buy 0; sold 217
+ID 2; current 253; buy 0; sold 159
+ID 3; current 113; buy 150; sold 157
+ID 4; current 105; buy 150; sold 137
+ID 5; current 123; buy 150; sold 183
+ID 6; current 69; buy 150; sold 159
+ID 7; current 150; buy 300; sold 162
+ID 8; current 153; buy 300; sold 147
+
+
+Прибыль магазина от продаж 7985.07
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-25T08:36:50.411
+
+ID 1; current 386; buy 0; sold 184
+ID 2; current 207; buy 0; sold 205
+ID 3; current 114; buy 150; sold 156
+ID 4; current 47; buy 150; sold 195
+ID 5; current 150; buy 150; sold 156
+ID 6; current 77; buy 150; sold 151
+ID 7; current 27; buy 150; sold 135
+ID 8; current 55; buy 150; sold 95
+
+
+Прибыль магазина от продаж 7006.70
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T08:40:47.643
+
+ID 1; current 387; buy 0; sold 183
+ID 2; current 208; buy 0; sold 204
+ID 3; current 125; buy 150; sold 145
+ID 4; current 58; buy 150; sold 184
+ID 5; current 150; buy 150; sold 156
+ID 6; current 88; buy 150; sold 140
+ID 7; current 17; buy 150; sold 145
+ID 8; current 34; buy 150; sold 116
+
+
+Прибыль магазина от продаж 7437.54
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T08:41:24.790
+
+ID 1; current 331; buy 0; sold 239
+ID 2; current 202; buy 0; sold 210
+ID 3; current 97; buy 150; sold 173
+ID 4; current 52; buy 150; sold 190
+ID 5; current 44; buy 0; sold 112
+ID 6; current 56; buy 150; sold 172
+ID 7; current 44; buy 150; sold 118
+ID 8; current 16; buy 150; sold 134
+
+
+Прибыль магазина от продаж 7692.16
+Затраченные средства на дозакупку товара 77610.00
+
+
+
+    2017-09-25T08:42:15.185
+
+ID 1; current 358; buy 0; sold 212
+ID 2; current 232; buy 0; sold 180
+ID 3; current 95; buy 150; sold 175
+ID 4; current 54; buy 150; sold 188
+ID 5; current 108; buy 150; sold 198
+ID 6; current 65; buy 150; sold 163
+ID 7; current 34; buy 150; sold 128
+ID 8; current 19; buy 150; sold 131
+
+
+Прибыль магазина от продаж 7851.89
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T08:46:27.287
+
+ID 1; current 358; buy 0; sold 212
+ID 2; current 190; buy 0; sold 222
+ID 3; current 89; buy 150; sold 181
+ID 4; current 52; buy 150; sold 190
+ID 5; current 150; buy 150; sold 156
+ID 6; current 61; buy 150; sold 167
+ID 7; current 150; buy 300; sold 162
+ID 8; current 17; buy 150; sold 133
+
+
+Прибыль магазина от продаж 8471.55
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T08:49:45.740
+
+ID 1; current 370; buy 0; sold 200
+ID 2; current 195; buy 0; sold 217
+ID 3; current 123; buy 150; sold 147
+ID 4; current 87; buy 150; sold 155
+ID 5; current 110; buy 150; sold 196
+ID 6; current 46; buy 150; sold 182
+ID 7; current 36; buy 150; sold 126
+ID 8; current 30; buy 150; sold 120
+
+
+Прибыль магазина от продаж 7420.22
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T08:55:54.021
+
+ID 1; current 430; buy 0; sold 140
+ID 2; current 261; buy 0; sold 151
+ID 3; current 118; buy 150; sold 152
+ID 4; current 66; buy 150; sold 176
+ID 5; current 150; buy 150; sold 156
+ID 6; current 94; buy 150; sold 134
+ID 7; current 56; buy 150; sold 106
+ID 8; current 23; buy 150; sold 127
+
+
+Прибыль магазина от продаж 7021.51
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T11:12:50.771
+
+ID 1; current 407; buy 0; sold 163
+ID 2; current 204; buy 0; sold 208
+ID 3; current 82; buy 150; sold 188
+ID 4; current 25; buy 150; sold 217
+ID 5; current 88; buy 150; sold 218
+ID 6; current 29; buy 150; sold 199
+ID 7; current 150; buy 300; sold 162
+ID 8; current 24; buy 150; sold 126
+
+
+Прибыль магазина от продаж 8727.59
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T11:13:14.745
+
+ID 1; current 411; buy 0; sold 159
+ID 2; current 246; buy 0; sold 166
+ID 3; current 92; buy 150; sold 178
+ID 4; current 44; buy 150; sold 198
+ID 5; current 150; buy 150; sold 156
+ID 6; current 23; buy 150; sold 205
+ID 7; current 25; buy 150; sold 137
+ID 8; current 159; buy 300; sold 141
+
+
+Прибыль магазина от продаж 8075.21
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T11:13:29.953
+
+ID 1; current 428; buy 0; sold 142
+ID 2; current 285; buy 0; sold 127
+ID 3; current 104; buy 150; sold 166
+ID 4; current 59; buy 150; sold 183
+ID 5; current 19; buy 0; sold 137
+ID 6; current 62; buy 150; sold 166
+ID 7; current 156; buy 300; sold 156
+ID 8; current 158; buy 300; sold 142
+
+
+Прибыль магазина от продаж 7847.61
+Затраченные средства на дозакупку товара 137610.00
+
+
+
+    2017-09-25T14:39:49.318
+
+ID 1; current 423; buy 0; sold 147
+ID 2; current 222; buy 0; sold 190
+ID 3; current 88; buy 150; sold 182
+ID 4; current 46; buy 150; sold 196
+ID 5; current 94; buy 150; sold 212
+ID 6; current 63; buy 150; sold 165
+ID 7; current 150; buy 300; sold 162
+ID 8; current 12; buy 150; sold 138
+
+
+Прибыль магазина от продаж 10155.82
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T16:49:55.063
+
+ID 1; current 429; buy 0; sold 141
+ID 2; current 202; buy 0; sold 210
+ID 3; current 92; buy 150; sold 178
+ID 4; current 103; buy 150; sold 139
+ID 5; current 150; buy 150; sold 156
+ID 6; current 63; buy 150; sold 165
+ID 7; current 16; buy 150; sold 146
+ID 8; current 150; buy 300; sold 150
+
+
+Прибыль магазина от продаж 8818.52
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T19:33:02.957
+
+ID 1; current 403; buy 0; sold 167
+ID 2; current 213; buy 0; sold 199
+ID 3; current 150; buy 150; sold 120
+ID 4; current 93; buy 150; sold 149
+ID 5; current 151; buy 150; sold 155
+ID 6; current 74; buy 150; sold 154
+ID 7; current 156; buy 300; sold 156
+ID 8; current 18; buy 150; sold 142
+
+
+Прибыль магазина от продаж 8127.82
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T21:29:51.046
+
+ID 1; current 378; buy 0; sold 192
+ID 2; current 245; buy 0; sold 167
+ID 3; current 87; buy 150; sold 183
+ID 4; current 41; buy 150; sold 201
+ID 5; current 117; buy 150; sold 189
+ID 6; current 25; buy 150; sold 203
+ID 7; current 150; buy 300; sold 162
+ID 8; current 39; buy 150; sold 121
+
+
+Прибыль магазина от продаж 8669.24
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T21:35:12.715
+
+ID 1; current 396; buy 0; sold 174
+ID 2; current 234; buy 0; sold 178
+ID 3; current 48; buy 150; sold 222
+ID 4; current 53; buy 150; sold 189
+ID 5; current 109; buy 150; sold 197
+ID 6; current 41; buy 150; sold 187
+ID 7; current 18; buy 150; sold 144
+ID 8; current 150; buy 300; sold 160
+
+
+Прибыль магазина от продаж 8730.94
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T21:36:06.831
+
+ID 1; current 407; buy 0; sold 163
+ID 2; current 220; buy 0; sold 192
+ID 3; current 90; buy 150; sold 180
+ID 4; current 85; buy 150; sold 157
+ID 5; current 150; buy 150; sold 156
+ID 6; current 125; buy 150; sold 103
+ID 7; current 51; buy 150; sold 111
+ID 8; current 150; buy 300; sold 160
+
+
+Прибыль магазина от продаж 7551.48
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T21:36:44.727
+
+ID 1; current 372; buy 0; sold 198
+ID 2; current 239; buy 0; sold 173
+ID 3; current 87; buy 150; sold 183
+ID 4; current 60; buy 150; sold 182
+ID 5; current 150; buy 150; sold 156
+ID 6; current 63; buy 150; sold 165
+ID 7; current 21; buy 150; sold 141
+ID 8; current 150; buy 300; sold 160
+
+
+Прибыль магазина от продаж 9654.77
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-25T22:01:22.937
+
+ID 1; current 437; buy 0; sold 133
+ID 2; current 234; buy 0; sold 178
+ID 3; current 116; buy 150; sold 154
+ID 4; current 125; buy 150; sold 117
+ID 5; current 150; buy 150; sold 156
+ID 6; current 100; buy 150; sold 128
+ID 7; current 49; buy 150; sold 113
+ID 8; current 24; buy 150; sold 136
+
+
+Прибыль магазина от продаж 6783.17
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T22:06:08.612
+
+ID 1; current 473; buy 0; sold 97
+ID 2; current 278; buy 0; sold 134
+ID 3; current 104; buy 150; sold 166
+ID 4; current 121; buy 150; sold 121
+ID 5; current 150; buy 150; sold 156
+ID 6; current 69; buy 150; sold 159
+ID 7; current 157; buy 300; sold 155
+ID 8; current 29; buy 150; sold 131
+
+
+Прибыль магазина от продаж 7266.95
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T22:15:52.186
+
+ID 1; current 384; buy 0; sold 186
+ID 2; current 238; buy 0; sold 174
+ID 3; current 150; buy 150; sold 120
+ID 4; current 23; buy 150; sold 219
+ID 5; current 80; buy 150; sold 226
+ID 6; current 56; buy 150; sold 172
+ID 7; current 150; buy 300; sold 162
+ID 8; current 150; buy 300; sold 160
+
+
+Прибыль магазина от продаж 8773.29
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-25T22:18:28.496
+
+ID 1; current 418; buy 0; sold 152
+ID 2; current 222; buy 0; sold 190
+ID 3; current 108; buy 150; sold 162
+ID 4; current 31; buy 150; sold 211
+ID 5; current 150; buy 150; sold 156
+ID 6; current 79; buy 150; sold 149
+ID 7; current 17; buy 150; sold 145
+ID 8; current 29; buy 150; sold 131
+
+
+Прибыль магазина от продаж 8563.01
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-25T22:19:34.909
+
+ID 1; current 374; buy 0; sold 196
+ID 2; current 245; buy 0; sold 167
+ID 3; current 116; buy 150; sold 154
+ID 4; current 111; buy 150; sold 131
+ID 5; current 127; buy 150; sold 179
+ID 6; current 102; buy 150; sold 126
+ID 7; current 159; buy 300; sold 153
+ID 8; current 159; buy 300; sold 151
+
+
+Прибыль магазина от продаж 8245.62
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-25T22:44:39.905
+
+ID 1; current 356; buy 0; sold 214
+ID 2; current 225; buy 0; sold 187
+ID 3; current 99; buy 150; sold 171
+ID 4; current 79; buy 150; sold 163
+ID 5; current 150; buy 150; sold 156
+ID 6; current 64; buy 150; sold 164
+ID 7; current 155; buy 300; sold 157
+ID 8; current 30; buy 150; sold 130
+
+
+Прибыль магазина от продаж 7785.42
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-25T22:57:37.807
+
+ID 1; current 437; buy 0; sold 133
+ID 2; current 186; buy 0; sold 226
+ID 3; current 94; buy 150; sold 176
+ID 4; current 92; buy 150; sold 150
+ID 5; current 104; buy 150; sold 202
+ID 6; current 65; buy 150; sold 163
+ID 7; current 14; buy 150; sold 148
+ID 8; current 32; buy 150; sold 128
+
+
+Прибыль магазина от продаж 7954.21
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-26T14:37:31.433
+
+ID 1; current 409; buy 0; sold 161
+ID 2; current 218; buy 0; sold 194
+ID 3; current 101; buy 150; sold 169
+ID 4; current 80; buy 150; sold 162
+ID 5; current 150; buy 150; sold 156
+ID 6; current 117; buy 150; sold 111
+ID 7; current 29; buy 150; sold 133
+ID 8; current 26; buy 150; sold 134
+
+
+Прибыль магазина от продаж 6907.14
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-26T14:38:55.996
+
+ID 1; current 428; buy 0; sold 142
+ID 2; current 241; buy 0; sold 171
+ID 3; current 95; buy 150; sold 175
+ID 4; current 115; buy 150; sold 127
+ID 5; current 153; buy 150; sold 153
+ID 6; current 48; buy 150; sold 180
+ID 7; current 150; buy 300; sold 162
+ID 8; current 14; buy 150; sold 146
+
+
+Прибыль магазина от продаж 7416.56
+Затраченные средства на дозакупку товара 111660.00
+
+
+
+    2017-09-26T14:39:04.634
+
+ID 1; current 458; buy 0; sold 112
+ID 2; current 229; buy 0; sold 183
+ID 3; current 112; buy 150; sold 158
+ID 4; current 68; buy 150; sold 174
+ID 5; current 150; buy 150; sold 156
+ID 6; current 59; buy 150; sold 169
+ID 7; current 18; buy 150; sold 144
+ID 8; current 31; buy 150; sold 129
+
+
+Прибыль магазина от продаж 7229.32
+Затраченные средства на дозакупку товара 80910.00
+
+
+
+    2017-09-26T14:39:12.591
+
+ID 1; current 428; buy 0; sold 142
+ID 2; current 208; buy 0; sold 204
+ID 3; current 108; buy 150; sold 162
+ID 4; current 150; buy 150; sold 92
+ID 5; current 15; buy 0; sold 141
+ID 6; current 78; buy 150; sold 150
+ID 7; current 50; buy 150; sold 112
+ID 8; current 157; buy 300; sold 153
+
+
+Прибыль магазина от продаж 6513.27
+Затраченные средства на дозакупку товара 106860.00
+
+
+
+    2017-09-26T14:40:45.194
+
+ID 1; current 368; buy 0; sold 202
+ID 2; current 214; buy 0; sold 198
+ID 3; current 100; buy 150; sold 170
+ID 4; current 29; buy 150; sold 213
+ID 5; current 126; buy 150; sold 180
+ID 6; current 39; buy 150; sold 189
+ID 7; current 150; buy 300; sold 162
+ID 8; current 150; buy 300; sold 160
+
+
+Прибыль магазина от продаж 8438.14
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-26T14:42:09.646
+
+ID 1; current 408; buy 0; sold 162
+ID 2; current 265; buy 0; sold 147
+ID 3; current 104; buy 150; sold 166
+ID 4; current 94; buy 150; sold 148
+ID 5; current 32; buy 0; sold 124
+ID 6; current 57; buy 150; sold 171
+ID 7; current 150; buy 300; sold 162
+ID 8; current 55; buy 150; sold 105
+
+
+Прибыль магазина от продаж 6862.97
+Затраченные средства на дозакупку товара 108360.00
+
+
+
+    2017-09-26T15:09:19.813
+
+ID 1; current 392; buy 0; sold 178
+ID 2; current 191; buy 0; sold 221
+ID 3; current 56; buy 150; sold 214
+ID 4; current 90; buy 150; sold 152
+ID 5; current 121; buy 150; sold 185
+ID 6; current 85; buy 150; sold 143
+ID 7; current 35; buy 150; sold 127
+ID 8; current 157; buy 300; sold 153
+
+
+Прибыль магазина от продаж 8086.11
+Затраченные средства на дозакупку товара 110160.00
+
+
+
+    2017-09-26T15:11:09.864
+
+ID 1; current 412; buy 0; sold 158
+ID 2; current 193; buy 0; sold 219
+ID 3; current 115; buy 150; sold 155
+ID 4; current 35; buy 150; sold 207
+ID 5; current 121; buy 150; sold 185
+ID 6; current 80; buy 150; sold 148
+ID 7; current 157; buy 300; sold 155
+ID 8; current 153; buy 300; sold 157
+
+
+Прибыль магазина от продаж 8131.08
+Затраченные средства на дозакупку товара 140910.00
+
+
+
+    2017-09-26T15:11:53.200
+
+ID 1; current 247; buy 0; sold 165
+ID 2; current 38; buy 0; sold 155
+ID 3; current 124; buy 150; sold 141
+ID 4; current 44; buy 150; sold 141
+ID 5; current 150; buy 150; sold 121
+ID 6; current 94; buy 150; sold 136
+ID 7; current 150; buy 150; sold 157
+ID 8; current 109; buy 150; sold 194
+
+
+Прибыль магазина от продаж 7942.88
+Затраченные средства на дозакупку товара 80910.00

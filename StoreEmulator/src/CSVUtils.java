@@ -1,5 +1,9 @@
 
 
+import com.opencsv.CSVReader;
+import com.opencsv.CSVWriter;
+import org.apache.commons.csv.*;
+
 import java.io.*;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
@@ -10,175 +14,116 @@ public class CSVUtils {
 
 
 
-    public char DEFAULT_SEPARATOR = ',';
-    public char DEFAULT_QUOTE = '"';
-
-
-    public  void parserWarehouse(File csvFile, Map<Integer, Product> productList){
-
-
+    public void parserWarehouse(File csvFile, Map<Integer, Product> productList) {
 
 
         try {
-            String sCurrentLine;
-            BufferedReader br = new BufferedReader(new FileReader(csvFile));
+            FileReader fr = new FileReader(csvFile);
+            CSVReader csvReader = new CSVReader(fr);
+            List<String[]> cellValues = new ArrayList<>();
+            List<String> line = new ArrayList<>();
 
-            while ((sCurrentLine = br.readLine()) != null) {
-
-                Product product = new Product(); //если вынести эту строчку в обявление класса то заполняется только последним продуктом
-
-               List<String> line = parseLine(sCurrentLine);
-               //System.out.println("Country [id=" + line.get(0) + ", alcohol=" + line.get(1) + " , name=" + line.get(2) +
-               //         " , price=" + line.get(3) + " , type=" + line.get(4) +" , volume=" + line.get(5) +
-               //         " , composition=" + line.get(6) +" , curentquantity=" + line.get(7) +"]");
-
-
-
-
-                   while (line.get(3).startsWith(" ")) {
-                       line.set(3, line.get(3).replace(" ", ""));
-
-                    }
-                while (line.get(5).startsWith(" ")) {
-                    line.set(5, line.get(5).replace(" ", ""));
+            for (String[] data = csvReader.readNext(); data != null; data = csvReader.readNext()) {
+                System.out.println("------------");
+                List<String> row = new ArrayList<>();
+                for (String data1 : data) {
+                    System.out.println(data1);
+                    row.add(data1);
 
                 }
-                while (line.get(7).startsWith(" ")) {
-                    line.set(7, line.get(7).replace(" ", ""));
-
-                }
-
-
-
-// parse the string
-
-
-               product.setId(Integer.parseInt(line.get(0)));
-               product.setAlcohol(Integer.parseInt(line.get(1)));
-               product.setNameProduct(line.get(2));
-               product.setPrice(parserBigDecimal(line.get(3)));
-               product.setTypeProduct(line.get(4));
-               product.setVolume(line.get(5));
-               product.setComposition(line.get(6));
-               product.setCurentquantity(Integer.parseInt(line.get(7)));
-               product.setBuyProd(0);
-               product.setSoldProd(0);
-               product.setSpendCost(BigDecimal.valueOf(0));
-
-              // productList.add(product);
-
-               // System.out.println("prod.get.ID  " +product.getId()+ "prof.get.name"+product.getNameProduct());
-
-
-                productList.put(product.getId(), product);
-              // System.out.println(product.getId() +"    prog ="+product.getNameProduct());
-
-
+                cellValues.add(row.toArray(new String[0]));
             }
 
-        }
-        catch (IOException e){
-            e.printStackTrace();
-        }
-
-    }
+            for (String[] temp:cellValues) {
+                String [] erwe = new String[cellValues.size()];
+                Product product = new Product();
+                for (int i = 0; i<cellValues.size(); i++) {
 
 
+                    if (temp[i].startsWith(" ")) {
+                        while (temp[i].startsWith(" ")) {
+                            temp[i] = temp[i].replace(" ", "");
 
-    public  List<String> parseLine(String cvsLine) {
-
-        return parseLine(cvsLine, DEFAULT_SEPARATOR, DEFAULT_QUOTE);
-    }
-
-    public  List<String> parseLine(String cvsLine, char separators) {
-
-        return parseLine(cvsLine, separators, DEFAULT_QUOTE);
-    }
-
-    public  List<String> parseLine(String cvsLine, char separators, char customQuote) {
-
-
-        List<String> result = new ArrayList<>();
-
-        //if empty, return!
-        if (cvsLine == null && cvsLine.isEmpty()) {
-            return result;
-        }
-
-        if (customQuote == ' ') {
-            customQuote = DEFAULT_QUOTE;
-        }
-
-        if (separators == ' ') {
-            separators = DEFAULT_SEPARATOR;
-        }
-
-        StringBuffer curVal = new StringBuffer();
-        boolean inQuotes = false;
-        boolean startCollectChar = false;
-        boolean doubleQuotesInColumn = false;
-
-        char[] chars = cvsLine.toCharArray();
-
-        for (char ch : chars) {
-
-            if (inQuotes) {
-                startCollectChar = true;
-                if (ch == customQuote) {
-                    inQuotes = false;
-                    doubleQuotesInColumn = false;
-                } else {
-
-                    //Fixed : allow "" in custom quote enclosed
-                    if (ch == '\"') {
-                        if (!doubleQuotesInColumn) {
-                            curVal.append(ch);
-                            doubleQuotesInColumn = true;
                         }
-                    } else {
-                        curVal.append(ch);
-                    }
 
+                    }
                 }
-            } else {
-                if (ch == customQuote) {
 
-                    inQuotes = true;
+                    product.setId(Integer.parseInt(temp[0]));
+                    product.setAlcohol(Integer.parseInt(temp[1]));
+                    product.setNameProduct(temp[2]);
+                    product.setPrice(parserBigDecimal(temp[3]));
+                    product.setTypeProduct(temp[4]);
+                    product.setVolume(temp[5]);
+                    product.setComposition(temp[6]);
+                    product.setCurentquantity(Integer.parseInt(temp[7]));
+                    product.setBuyProd(0);
+                    product.setSoldProd(0);
+                    product.setSpendCost(BigDecimal.valueOf(0));
 
-                    //Fixed : allow "" in empty quote enclosed
-                    if (chars[0] != '"' && customQuote == '\"') {
-                        curVal.append('"');
-                    }
+                    productList.put(product.getId(), product);
 
-                    //double quotes in column will hit this!
-                    if (startCollectChar) {
-                        curVal.append('"');
-                    }
-
-                } else if (ch == separators) {
-
-                    result.add(curVal.toString());
-
-                    curVal = new StringBuffer();
-                    startCollectChar = false;
-
-                } else if (ch == '\r') {
-                    //ignore LF characters
-                    continue;
-                } else if (ch == '\n') {
-                    //the end, break!
-                    break;
-                } else {
-                    curVal.append(ch);
-                }
             }
 
         }
+        catch (Exception E){
+            E.printStackTrace();
+        }
 
-        result.add(curVal.toString());
 
-        return result;
     }
+
+
+public void createCSVFile(File csvNEWFile, Map<Integer, Product> productList) throws IOException {
+        List<String []> cellValues = new ArrayList<>();
+
+
+        CSVWriter writer = new CSVWriter(new FileWriter(csvNEWFile));
+
+
+        for (int i = 1; i <=productList.size(); i++){
+            String[] temp = new String[8];
+            temp[0] = ""+productList.get(i).getId();
+            temp[1] = ""+productList.get(i).getAlcohol();
+            temp[2] = ""+productList.get(i).getNameProduct();
+            temp[3] = ""+productList.get(i).getPrice();
+            temp[4] = ""+productList.get(i).getTypeProduct();
+            temp[5] = ""+productList.get(i).getVolume();
+            temp[6] = ""+productList.get(i).getComposition();
+            temp[7] = ""+productList.get(i).getCurentquantity();
+                    cellValues.add(temp);
+            }
+
+        for(String[] row : cellValues) {
+        writer.writeNext(row, false);
+          }
+
+
+
+
+        writer.close();
+}
+
+
+
+
+        //System.out.println(fsdsd);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     public  BigDecimal parserBigDecimal(String string){
         DecimalFormatSymbols symbols = new DecimalFormatSymbols();
@@ -195,7 +140,7 @@ public class CSVUtils {
         }
         catch (Exception e){
             e.printStackTrace();
-            System.out.println("не правельный ввод данних в поле \"Price\"");
+            System.out.println("не правильный ввод данних в поле \"Price\"");
         }
 
         return bigDecimal;
